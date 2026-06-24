@@ -247,7 +247,7 @@ In the article, I walk through:
 * The limitations of N-gram-based learning
 * Why modern language models evolved beyond N-grams
 
-🔗 **Hashnode Article:** [Add Your Blog Link Here]
+🔗 **Hashnode Article:** [NGrams for Mathematical Series](https://untitled-drafts.hashnode.dev/can-n-grams-understand-numbers-exploring-fibonacci-like-a-language-model)
 
 If you're interested in the intuition behind the code rather than just the implementation, the blog post is a great place to start.
 
