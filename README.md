@@ -1,5 +1,4 @@
 # NGrams-for-Mathematical-Series
-# N-Grams on Numerical Data: A Fibonacci Experiment 🔢
 
 A small experiment exploring whether **N-gram models**, commonly used in Natural Language Processing (NLP), can be applied to **numerical sequences** instead of text.
 
