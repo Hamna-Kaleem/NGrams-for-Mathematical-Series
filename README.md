@@ -77,19 +77,6 @@ The model then uses previously observed patterns to predict future values.
 
 ---
 
-## Project Structure
-
-```text
-.
-├── NGrams_Fibonacci.ipynb
-├── README.md
-└── assets/
-    ├── demo.gif
-    └── screenshots/
-```
-
----
-
 ## How It Works
 
 ### 1. Generate Fibonacci Numbers
@@ -142,14 +129,6 @@ Example:
 ```
 
 Watching the window move across the sequence makes it much easier to understand how N-gram-based models learn context.
-
-### Demo
-
-Add your GIF here:
-
-```markdown
-![N-Gram Visualization](assets/demo.gif)
-```
 
 ---
 
